@@ -1,0 +1,24 @@
+
+#number {
+    font-size: 90px;
+}
+
+#b {
+    width: 90px;
+    height: 55px;
+}
+
+.container {
+    margin: auto;
+    height: 800px;
+    border: 3px solid green;
+    background-image: url("img/img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px;
+}
+#lentele, #pirmaEil, #mygtukas, #numeriukas {
+    margin: auto;
+    width: 50%;
+}
+
